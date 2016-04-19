@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/ivanpiedra/Documents/Advance_HR/emails'
+let g:netrw_dirhist_2='/Users/ivanpiedra/Documents/Ivanchis/starter/client'
+let g:netrw_dirhist_3='/Users/ivanpiedra/Documents/Ivanchis/starter/dist'
+let g:netrw_dirhist_4='/Users/ivanpiedra/Documents/Ivanchis/starter/client'
+let g:netrw_dirhist_5='/Users/ivanpiedra/Documents/011_cecropia_hypernium/metis_app/dist'
+let g:netrw_dirhist_6='/Users/ivanpiedra/Documents/011_cecropia_hypernium/metis_app/client'
